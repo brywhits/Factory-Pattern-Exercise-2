@@ -1,0 +1,15 @@
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.deps.json
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.runtimeconfig.json
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.dll
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/bin/Debug/net6.0/FactoryPatternExercise2.pdb
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.AssemblyReference.cache
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfoInputs.cache
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.AssemblyInfo.cs
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.dll
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/refint/FactoryPatternExercise2.dll
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.pdb
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/FactoryPatternExercise2.genruntimeconfig.cache
+/Users/bryantwhitsett/repos/Factory-Pattern-Exercise-2/FactoryPatternExercise2/obj/Debug/net6.0/ref/FactoryPatternExercise2.dll

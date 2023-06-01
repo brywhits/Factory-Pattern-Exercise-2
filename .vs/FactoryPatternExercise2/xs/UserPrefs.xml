@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPatternExercise2/Program.cs">
+    <Files>
+      <File FileName="FactoryPatternExercise2/Program.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryPatternExercise2" expanded="True">
+            <Node name="FactoryPatternExercise2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryPatternExercise2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
